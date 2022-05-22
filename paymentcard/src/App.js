@@ -18,7 +18,7 @@ import Btn from "./components/Btn";
 
   let gift = "Apple Gift"
 
-  let pay = "Paymen"
+  let pay = "Payment"
 
   let desk = "Desktop - mobile"
 

@@ -10,3 +10,6 @@ const Date1 = ({date1}) => {
 }
 
 export default Date1
+
+
+
